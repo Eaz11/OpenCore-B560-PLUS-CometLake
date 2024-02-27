@@ -2,7 +2,7 @@
 OpenCore Hackintosh configuration example for the **ASUS PRIME B560-PLUS** motherboard with an Intel® Core™ i7-10700KF. 
 
 <img src="IMAGE" alt="" width="1400"/>
-<p align="center"><i>CAPTION</i></p>
+<p align="center"><i>IMAGE ADDED SOON</i></p>
 
 <br>
 
@@ -55,11 +55,11 @@ While bluetooth CAN be enaabled, at present, no devices can be located or connec
 <li><b>WIFI</b></li>
 Due to me having a PCIe wireless card (Realtek RTL8192EE Wireless), I have not yet got WIFI working. This is on my list of things to get working.
 
+</ul>
+
 <ul>
 <li><b>Airdrop (a given)</b></li>
 Considering the problems with both BT and WIFI, airdrop does not currently work.
-</ul>
-
 </ul>
 
 ***
